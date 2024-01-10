@@ -1,0 +1,4 @@
+red: #D54D62
+organ: #D2600F
+green: #D0F288
+pink: #FF79C6
